@@ -1,3 +1,3 @@
-# Student-Management-System
+# Student-Management-System (Laravel)
 
 This is a simple Student Management System developed using PHP Laravel Framework...
